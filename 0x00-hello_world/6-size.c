@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  *
- *main
+ * main - Entry point 
  *
- *Return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -13,4 +13,4 @@ int main(void)
 	printf("Size of a long long int: %d byte(s)\n", sizeof(long long int));
 	printf("Size of a float: %d byte(s)\n", sizeof(float));
 	return (0);
-}[A[A[A[A[A[A[A[A[A[A[A[A[C main[B[B[D[D[D[D[D Return: Always 0 (Success)[B[B[B[B[B[B[B[B[B[B
+}
