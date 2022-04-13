@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * times_table - function that prints the 9 times table, strating with 0
+ * time_table - function that prints the 9 times table, strating with 0
  * @void: no argumnet
  */
-void times_table(void)
+void time_table(void)
 {
 int i, j, k;
 
@@ -14,11 +14,11 @@ _putchar('0');
 for (j = 1; j <= 9; j++)
 {
 _putchar(',');
-_putchar(' '):
+_putchar(' ');
 
 k = i * j;
 
-if (k <= 9);
+if (k <= 9)
 _putchar(' ');
 else
 _putchar((k / 10) + '0');
