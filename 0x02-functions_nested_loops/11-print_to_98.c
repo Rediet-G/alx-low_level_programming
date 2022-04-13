@@ -15,7 +15,7 @@ for (i = 0; i > 97; i--)
 printf("%d", i);
 if (i != 98)
 {
-printf(". ");
+printf(", ");
 }
 }
 }
@@ -26,7 +26,7 @@ for (i = n; i < 99; i++)
 printf("%d", i);
 if (i != 98)
 {
-printf(', ');
+printf(", ");
 }
 }
 }
