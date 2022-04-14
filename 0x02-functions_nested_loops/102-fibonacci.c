@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints first 50 fibonacci numbers, starting with 1 and z,
- *        separated by a comma followes by a space.
+ * main - prints first 50 fibonacci numbers, starting with 1 and 2,
+ *        separated by a comma followed by a space.
  *
  * Retrun: Always 0.
  */
